@@ -1,0 +1,7 @@
+http://example.com, 10, "Example Domain"
+https://example.com, NaN, "hede"
+https://en.wikipedia.org/wiki/0, 5, "zero"
+https://en.wikipedia.org/wiki/1, 16, "one"
+https://en.wikipedia.org/wiki/2, 17, "two"
+https://en.wikipedia.org/wiki/3, 15, ".*"
+https://en.wikipedia.org/wiki/4, 16, "one"
